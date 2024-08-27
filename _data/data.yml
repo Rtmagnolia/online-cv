@@ -36,30 +36,67 @@ education:
 experiences:
     title: Experiences
     info:
-      - role:  
-        time: 2021 - Present
-        company: VMware / Broadcom, Remote
+      - role: Sr. Account Director, Strategic 
+        time: 2016 - 2024
+        company: VMware / Broadcom
         details: |
           Accomplishments
-            - 
-      - role: Senior Staff Solutions Engineer
-        time: 2016 - 2021
-        company: VMware, Texas
+            - Exceeded quota year over year
+            - Recognized as top Account Director in the territory
+      - role: Sr. Account Executive, Enterprise  
+        time: 2013 - 2016
+        company: EMC
         details: |
           Accomplishments
-            - 
-      - role: Senior Solutions Engineer
-        time: 2010 - 2016
-        company: EMC, Texas
+            - Recipient of Top Partner Sales Award
+            - Exceeded quota each year
+      - role: Technology Sales Manager IV  
+        time: 2011 - 2013
+        company: Oracle
         details: |
           Accomplishments
-            - 
-      - role: System Integration Specialist
-        time: 2005 - 2010
-        company: Perot Systems / Dell Services, Texas
+            - Grew the overally territory business by 67%
+      - role: Executive Technology Sales   
+        time: 2010 - 2011
+        company: CAPGEMINI 
         details: |
           Accomplishments
-            - 
+            - Identified and closed $2.9M within 12 months
+      - role: Senior Account Executive   
+        time: 2007 - 2010
+        company: SUN MICROSYSTEMS  
+        details: |
+          Accomplishments
+            - Largest Solaris on x86 deal (2009)
+            - Exceed Quota each year
+      - role: Global Channel Manager   
+        time: 2006 - 2007
+        company: IDERA  
+        details: |
+          Accomplishments
+            - Increased channel revenue by 300% in 1 year, from $720K to $2.2M. 
+      - role: CFO, CDO, CIO, COO, Executive Chef, Research Assistant - Child Development and Human Relations  
+        time: 2003 - 2006
+        company: TIRRELL RESIDENCE   
+        details: |
+          Accomplishments
+            - Created and nurtured two lives who are now law abiding adult citizens
+      - role: Senior Sales Representative / Regional Channel Manager   
+        time: 1999 - 2003
+        company: QUEST SOFTWARE   
+        details: |
+          Accomplishments
+            - Hand-picked by the CEO to manage partners across the Midwest and Southern US to improve Channel Sales.
+            - First largest single transaction over $1M
+      - role: Telemarketer / Team Leader / Sales Representative    
+        time: 1997-1998
+        company: BMC SOFTWARE    
+        details: |
+          Accomplishments
+            - Promoted to Team Leader within 6 months
+
+
+
 skills:
     title: Skills
 
